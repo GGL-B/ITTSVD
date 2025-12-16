@@ -1,9 +1,9 @@
-ITTSVD
+IT-TRPCA
 
 
-Title: Irregular Tensor Truncation Singular Value Decomposition for single-cell multi-omics data analysis
+Title: Irregular-Tensor-Truncated Robust PCA for Single-Cell Multi-Omics Data Analysis
 
-Description: ITTSVD is written in the Python programming language. To use, please download the ITTSVD folder and follow the instructions provided in the README.
+Description: IT-TRPCA is written in the Python programming language. To use, please download the IT-TRPCA folder and follow the instructions provided in the README.
 
 
 The data used consists of different feature structures corresponding to the same cell, 
